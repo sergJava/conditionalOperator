@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Task 1");
-        int age = 17;
+        int age = 18;
         if (age>=18){
             System.out.println("если возраст человека равен " +age +", то он совершеннолетний");
         } else {
@@ -69,8 +69,8 @@ public class Main {
         System.out.println("_______________________________________________________________________");
 
         System.out.println("Task 7");
-        int one = 1;
-        int two = 2;
+        int one = 6;
+        int two = 7;
         int three = 3;
 
         if (one > two && one>three) {
